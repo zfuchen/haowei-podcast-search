@@ -21,13 +21,17 @@ for path in sorted(glob.glob(os.path.join(DATA_DIR, "EP*.json"))):
         "title": ep["title"],
         "segment_count": len(ep["paragraphs"])
     })
-    for p in ep["paragraphs"]:
+    paras = ep["paragraphs"]
+    for i, p in enumerate(paras):
         segments_all.append({
             "ep": ep["episode"],
             "title": ep["title"],
             "ts": p["timestamp"],
             "start": p["start"],
-            "text": p["text"]
+            "speaker": p.get("speaker", ""),
+            "text": p["text"],
+            "prev": paras[i-1]["text"][:80] if i > 0 else "",
+            "next": paras[i+1]["text"][:80] if i < len(paras)-1 else ""
         })
 
 index = {
