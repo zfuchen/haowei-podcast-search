@@ -1,0 +1,2192 @@
+{
+  "episode": "EP1",
+  "title": "EP1 當Youtuber幹嘛唸工業設計？",
+  "podcast": "好味小姐開束縛我還你原形",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 1.0,
+      "timestamp": "00:00",
+      "timestamp_end": "00:01",
+      "text": "哈哈哈",
+      "speaker": "unknown"
+    },
+    {
+      "id": 1,
+      "start": 1.48,
+      "end": 2.5,
+      "timestamp": "00:01",
+      "timestamp_end": "00:02",
+      "text": "好 我開始弱了",
+      "speaker": "unknown"
+    },
+    {
+      "id": 2,
+      "start": 2.5,
+      "end": 2.9,
+      "timestamp": "00:02",
+      "timestamp_end": "00:02",
+      "text": "來",
+      "speaker": "unknown"
+    },
+    {
+      "id": 3,
+      "start": 4.5200000000000005,
+      "end": 6.7,
+      "timestamp": "00:04",
+      "timestamp_end": "00:06",
+      "text": "最近算是我們這次的第一集啊",
+      "speaker": "unknown"
+    },
+    {
+      "id": 4,
+      "start": 6.7,
+      "end": 7.62,
+      "timestamp": "00:06",
+      "timestamp_end": "00:07",
+      "text": "對 你那個身",
+      "speaker": "unknown"
+    },
+    {
+      "id": 5,
+      "start": 7.62,
+      "end": 8.92,
+      "timestamp": "00:07",
+      "timestamp_end": "00:08",
+      "text": "你那個OP的聲音是",
+      "speaker": "unknown"
+    },
+    {
+      "id": 6,
+      "start": 8.92,
+      "end": 9.92,
+      "timestamp": "00:08",
+      "timestamp_end": "00:09",
+      "text": "你早上在拍",
+      "speaker": "unknown"
+    },
+    {
+      "id": 7,
+      "start": 9.92,
+      "end": 10.64,
+      "timestamp": "00:09",
+      "timestamp_end": "00:10",
+      "text": "Dopey",
+      "speaker": "unknown"
+    },
+    {
+      "id": 8,
+      "start": 10.64,
+      "end": 11.76,
+      "timestamp": "00:10",
+      "timestamp_end": "00:11",
+      "text": "過了的時候拍的那個",
+      "speaker": "unknown"
+    },
+    {
+      "id": 9,
+      "start": 11.76,
+      "end": 12.46,
+      "timestamp": "00:11",
+      "timestamp_end": "00:12",
+      "text": "對啊",
+      "speaker": "unknown"
+    },
+    {
+      "id": 10,
+      "start": 12.46,
+      "end": 13.24,
+      "timestamp": "00:12",
+      "timestamp_end": "00:13",
+      "text": "用手機",
+      "speaker": "unknown"
+    },
+    {
+      "id": 11,
+      "start": 13.24,
+      "end": 14.88,
+      "timestamp": "00:13",
+      "timestamp_end": "00:14",
+      "text": "用手機錄",
+      "speaker": "unknown"
+    },
+    {
+      "id": 12,
+      "start": 14.88,
+      "end": 15.74,
+      "timestamp": "00:14",
+      "timestamp_end": "00:15",
+      "text": "我想說你沒試",
+      "speaker": "unknown"
+    },
+    {
+      "id": 13,
+      "start": 15.74,
+      "end": 17.34,
+      "timestamp": "00:15",
+      "timestamp_end": "00:17",
+      "text": "每一次我們就拍Dopey",
+      "speaker": "unknown"
+    },
+    {
+      "id": 14,
+      "start": 17.34,
+      "end": 17.94,
+      "timestamp": "00:17",
+      "timestamp_end": "00:17",
+      "text": "過了一次",
+      "speaker": "unknown"
+    },
+    {
+      "id": 15,
+      "start": 17.94,
+      "end": 19.76,
+      "timestamp": "00:17",
+      "timestamp_end": "00:19",
+      "text": "平常每次就會拍他FakeW好不好",
+      "speaker": "unknown"
+    },
+    {
+      "id": 16,
+      "start": 19.76,
+      "end": 20.48,
+      "timestamp": "00:19",
+      "timestamp_end": "00:20",
+      "text": "哪有",
+      "speaker": "unknown"
+    },
+    {
+      "id": 17,
+      "start": 20.48,
+      "end": 22.34,
+      "timestamp": "00:20",
+      "timestamp_end": "00:22",
+      "text": "只是平律沒有你們那麼高",
+      "speaker": "unknown"
+    },
+    {
+      "id": 18,
+      "start": 23.44,
+      "end": 24.8,
+      "timestamp": "00:23",
+      "timestamp_end": "00:24",
+      "text": "反正他也不愛你",
+      "speaker": "unknown"
+    },
+    {
+      "id": 19,
+      "start": 24.8,
+      "end": 27.060000000000002,
+      "timestamp": "00:24",
+      "timestamp_end": "00:27",
+      "text": "他知道你有求比他都才會找他",
+      "speaker": "unknown"
+    },
+    {
+      "id": 20,
+      "start": 27.060000000000002,
+      "end": 28.1,
+      "timestamp": "00:27",
+      "timestamp_end": "00:28",
+      "text": "我也我覺得你這樣不行",
+      "speaker": "unknown"
+    },
+    {
+      "id": 21,
+      "start": 28.1,
+      "end": 30.200000000000003,
+      "timestamp": "00:28",
+      "timestamp_end": "00:30",
+      "text": "我覺得你找不到放OP的時間點",
+      "speaker": "unknown"
+    },
+    {
+      "id": 22,
+      "start": 30.200000000000003,
+      "end": 30.94,
+      "timestamp": "00:30",
+      "timestamp_end": "00:30",
+      "text": "再加了",
+      "speaker": "unknown"
+    },
+    {
+      "id": 23,
+      "start": 30.94,
+      "end": 31.18,
+      "timestamp": "00:30",
+      "timestamp_end": "00:31",
+      "text": "真的",
+      "speaker": "unknown"
+    },
+    {
+      "id": 24,
+      "start": 31.18,
+      "end": 32.34,
+      "timestamp": "00:31",
+      "timestamp_end": "00:32",
+      "text": "他不我現在就放下來",
+      "speaker": "unknown"
+    },
+    {
+      "id": 25,
+      "start": 32.34,
+      "end": 32.84,
+      "timestamp": "00:32",
+      "timestamp_end": "00:32",
+      "text": "哈哈",
+      "speaker": "unknown"
+    },
+    {
+      "id": 26,
+      "start": 32.84,
+      "end": 33.34,
+      "timestamp": "00:32",
+      "timestamp_end": "00:33",
+      "text": "哈哈",
+      "speaker": "unknown"
+    },
+    {
+      "id": 27,
+      "start": 33.34,
+      "end": 33.84,
+      "timestamp": "00:33",
+      "timestamp_end": "00:33",
+      "text": "哈哈",
+      "speaker": "unknown"
+    },
+    {
+      "id": 28,
+      "start": 33.84,
+      "end": 34.84,
+      "timestamp": "00:33",
+      "timestamp_end": "00:34",
+      "text": "哈哈",
+      "speaker": "unknown"
+    },
+    {
+      "id": 29,
+      "start": 34.84,
+      "end": 35.84,
+      "timestamp": "00:34",
+      "timestamp_end": "00:35",
+      "text": "哈哈",
+      "speaker": "unknown"
+    },
+    {
+      "id": 30,
+      "start": 35.84,
+      "end": 36.84,
+      "timestamp": "00:35",
+      "timestamp_end": "00:36",
+      "text": "哈哈",
+      "speaker": "unknown"
+    },
+    {
+      "id": 31,
+      "start": 36.84,
+      "end": 37.84,
+      "timestamp": "00:36",
+      "timestamp_end": "00:37",
+      "text": "哈哈",
+      "speaker": "unknown"
+    },
+    {
+      "id": 32,
+      "start": 37.84,
+      "end": 38.84,
+      "timestamp": "00:37",
+      "timestamp_end": "00:38",
+      "text": "哈哈哈",
+      "speaker": "unknown"
+    },
+    {
+      "id": 33,
+      "start": 39.18,
+      "end": 39.84,
+      "timestamp": "00:39",
+      "timestamp_end": "00:39",
+      "text": "哎呦",
+      "speaker": "unknown"
+    },
+    {
+      "id": 34,
+      "start": 39.84,
+      "end": 40.84,
+      "timestamp": "00:39",
+      "timestamp_end": "00:40",
+      "text": "好可愛喔",
+      "speaker": "unknown"
+    },
+    {
+      "id": 35,
+      "start": 41.24,
+      "end": 42.74,
+      "timestamp": "00:41",
+      "timestamp_end": "00:42",
+      "text": "好雖然那個怕怕怕是拍BV的聲音",
+      "speaker": "unknown"
+    },
+    {
+      "id": 36,
+      "start": 42.74,
+      "end": 43.74,
+      "timestamp": "00:42",
+      "timestamp_end": "00:43",
+      "text": "對 那是拍BV的聲音",
+      "speaker": "unknown"
+    },
+    {
+      "id": 37,
+      "start": 43.74,
+      "end": 44.620000000000005,
+      "timestamp": "00:43",
+      "timestamp_end": "00:44",
+      "text": "哇對拍",
+      "speaker": "unknown"
+    },
+    {
+      "id": 38,
+      "start": 44.620000000000005,
+      "end": 45.52,
+      "timestamp": "00:44",
+      "timestamp_end": "00:45",
+      "text": "哈哈",
+      "speaker": "unknown"
+    },
+    {
+      "id": 39,
+      "start": 45.52,
+      "end": 46.84,
+      "timestamp": "00:45",
+      "timestamp_end": "00:46",
+      "text": "那你有配著音樂弄",
+      "speaker": "unknown"
+    },
+    {
+      "id": 40,
+      "start": 46.84,
+      "end": 47.0,
+      "timestamp": "00:46",
+      "timestamp_end": "00:47",
+      "text": "哦",
+      "speaker": "unknown"
+    },
+    {
+      "id": 41,
+      "start": 48.0,
+      "end": 49.260000000000005,
+      "timestamp": "00:48",
+      "timestamp_end": "00:49",
+      "text": "音樂是畫的假的",
+      "speaker": "unknown"
+    },
+    {
+      "id": 42,
+      "start": 49.260000000000005,
+      "end": 50.0,
+      "timestamp": "00:49",
+      "timestamp_end": "00:50",
+      "text": "哦",
+      "speaker": "unknown"
+    },
+    {
+      "id": 43,
+      "start": 50.0,
+      "end": 50.3,
+      "timestamp": "00:50",
+      "timestamp_end": "00:50",
+      "text": "好 音樂",
+      "speaker": "unknown"
+    },
+    {
+      "id": 44,
+      "start": 50.3,
+      "end": 51.06,
+      "timestamp": "00:50",
+      "timestamp_end": "00:51",
+      "text": "OP了",
+      "speaker": "unknown"
+    },
+    {
+      "id": 45,
+      "start": 51.06,
+      "end": 52.8,
+      "timestamp": "00:51",
+      "timestamp_end": "00:52",
+      "text": "所以你現在應該要開始講",
+      "speaker": "unknown"
+    },
+    {
+      "id": 46,
+      "start": 52.8,
+      "end": 53.74,
+      "timestamp": "00:52",
+      "timestamp_end": "00:53",
+      "text": "節目的名字",
+      "speaker": "unknown"
+    },
+    {
+      "id": 47,
+      "start": 53.74,
+      "end": 54.400000000000006,
+      "timestamp": "00:53",
+      "timestamp_end": "00:54",
+      "text": "好",
+      "speaker": "unknown"
+    },
+    {
+      "id": 48,
+      "start": 54.400000000000006,
+      "end": 55.400000000000006,
+      "timestamp": "00:54",
+      "timestamp_end": "00:55",
+      "text": "好大家好",
+      "speaker": "unknown"
+    },
+    {
+      "id": 49,
+      "start": 55.400000000000006,
+      "end": 56.760000000000005,
+      "timestamp": "00:55",
+      "timestamp_end": "00:56",
+      "text": "歡迎來到好位小姐",
+      "speaker": "unknown"
+    },
+    {
+      "id": 50,
+      "start": 57.019999999999996,
+      "end": 57.54,
+      "timestamp": "00:57",
+      "timestamp_end": "00:57",
+      "text": "久iner",
+      "speaker": "unknown"
+    },
+    {
+      "id": 51,
+      "start": 57.54,
+      "end": 58.08,
+      "timestamp": "00:57",
+      "timestamp_end": "00:58",
+      "text": "怎麼做",
+      "speaker": "unknown"
+    },
+    {
+      "id": 52,
+      "start": 58.699999999999996,
+      "end": 60.379999999999995,
+      "timestamp": "00:58",
+      "timestamp_end": "01:00",
+      "text": "因為我會畫了",
+      "speaker": "unknown"
+    },
+    {
+      "id": 53,
+      "start": 60.379999999999995,
+      "end": 61.26,
+      "timestamp": "01:00",
+      "timestamp_end": "01:01",
+      "text": "還是畫教大家",
+      "speaker": "unknown"
+    },
+    {
+      "id": 54,
+      "start": 61.26,
+      "end": 62.64,
+      "timestamp": "01:01",
+      "timestamp_end": "01:02",
+      "text": "知道沛球",
+      "speaker": "unknown"
+    },
+    {
+      "id": 55,
+      "start": 62.64,
+      "end": 62.72,
+      "timestamp": "01:02",
+      "timestamp_end": "01:02",
+      "text": "因為我以前之前以前我私有",
+      "speaker": "unknown"
+    },
+    {
+      "id": 56,
+      "start": 62.72,
+      "end": 63.68,
+      "timestamp": "01:02",
+      "timestamp_end": "01:03",
+      "text": "可以",
+      "speaker": "unknown"
+    },
+    {
+      "id": 57,
+      "start": 63.68,
+      "end": 64.34,
+      "timestamp": "01:03",
+      "timestamp_end": "01:04",
+      "text": "對",
+      "speaker": "unknown"
+    },
+    {
+      "id": 58,
+      "start": 64.34,
+      "end": 64.67999999999999,
+      "timestamp": "01:04",
+      "timestamp_end": "01:04",
+      "text": "來",
+      "speaker": "unknown"
+    },
+    {
+      "id": 59,
+      "start": 64.67999999999999,
+      "end": 66.08,
+      "timestamp": "01:04",
+      "timestamp_end": "01:06",
+      "text": "我只看到",
+      "speaker": "unknown"
+    },
+    {
+      "id": 60,
+      "start": 67.58,
+      "end": 68.64,
+      "timestamp": "01:07",
+      "timestamp_end": "01:08",
+      "text": "好",
+      "speaker": "unknown"
+    },
+    {
+      "id": 61,
+      "start": 68.64,
+      "end": 69.46,
+      "timestamp": "01:08",
+      "timestamp_end": "01:09",
+      "text": "可以",
+      "speaker": "unknown"
+    },
+    {
+      "id": 62,
+      "start": 70.82,
+      "end": 72.46,
+      "timestamp": "01:10",
+      "timestamp_end": "01:12",
+      "text": "來",
+      "speaker": "unknown"
+    },
+    {
+      "id": 63,
+      "start": 72.46,
+      "end": 73.38,
+      "timestamp": "01:12",
+      "timestamp_end": "01:13",
+      "text": "好",
+      "speaker": "unknown"
+    },
+    {
+      "id": 64,
+      "start": 74.42,
+      "end": 75.0,
+      "timestamp": "01:14",
+      "timestamp_end": "01:15",
+      "text": "藝事",
+      "speaker": "unknown"
+    },
+    {
+      "id": 65,
+      "start": 75.06,
+      "end": 76.38,
+      "timestamp": "01:15",
+      "timestamp_end": "01:16",
+      "text": "開始",
+      "speaker": "unknown"
+    },
+    {
+      "id": 66,
+      "start": 76.38,
+      "end": 77.9,
+      "timestamp": "01:16",
+      "timestamp_end": "01:17",
+      "text": "就是房之後",
+      "speaker": "unknown"
+    },
+    {
+      "id": 67,
+      "start": 79.1,
+      "end": 80.32,
+      "timestamp": "01:19",
+      "timestamp_end": "01:20",
+      "text": "那",
+      "speaker": "unknown"
+    },
+    {
+      "id": 68,
+      "start": 80.32,
+      "end": 81.34,
+      "timestamp": "01:20",
+      "timestamp_end": "01:21",
+      "text": "放在幾台",
+      "speaker": "unknown"
+    },
+    {
+      "id": 69,
+      "start": 81.34,
+      "end": 81.58,
+      "timestamp": "01:21",
+      "timestamp_end": "01:21",
+      "text": "一邊",
+      "speaker": "unknown"
+    },
+    {
+      "id": 70,
+      "start": 81.58,
+      "end": 82.46,
+      "timestamp": "01:21",
+      "timestamp_end": "01:22",
+      "text": "是",
+      "speaker": "unknown"
+    },
+    {
+      "id": 71,
+      "start": 82.46,
+      "end": 83.58,
+      "timestamp": "01:22",
+      "timestamp_end": "01:23",
+      "text": "第三 crib",
+      "speaker": "unknown"
+    },
+    {
+      "id": 72,
+      "start": 83.58,
+      "end": 84.24,
+      "timestamp": "01:23",
+      "timestamp_end": "01:24",
+      "text": "好",
+      "speaker": "unknown"
+    },
+    {
+      "id": 73,
+      "start": 84.24,
+      "end": 84.74,
+      "timestamp": "01:24",
+      "timestamp_end": "01:24",
+      "text": "一邊",
+      "speaker": "unknown"
+    },
+    {
+      "id": 74,
+      "start": 84.74,
+      "end": 85.75999999999999,
+      "timestamp": "01:24",
+      "timestamp_end": "01:25",
+      "text": "好",
+      "speaker": "unknown"
+    },
+    {
+      "id": 75,
+      "start": 85.76,
+      "end": 87.18,
+      "timestamp": "01:25",
+      "timestamp_end": "01:27",
+      "text": "這天機是阿斷",
+      "speaker": "unknown"
+    },
+    {
+      "id": 76,
+      "start": 87.18,
+      "end": 88.84,
+      "timestamp": "01:27",
+      "timestamp_end": "01:28",
+      "text": "那好我是攝影師很煩",
+      "speaker": "unknown"
+    },
+    {
+      "id": 77,
+      "start": 90.58000000000001,
+      "end": 94.14,
+      "timestamp": "01:30",
+      "timestamp_end": "01:34",
+      "text": "好總原製呢我們現在開始突然掉入Palkest",
+      "speaker": "unknown"
+    },
+    {
+      "id": 78,
+      "start": 94.14,
+      "end": 94.86,
+      "timestamp": "01:34",
+      "timestamp_end": "01:34",
+      "text": "對",
+      "speaker": "unknown"
+    },
+    {
+      "id": 79,
+      "start": 94.86,
+      "end": 96.46000000000001,
+      "timestamp": "01:34",
+      "timestamp_end": "01:36",
+      "text": "為什麼會這樣子呢就是",
+      "speaker": "unknown"
+    },
+    {
+      "id": 80,
+      "start": 96.96000000000001,
+      "end": 98.36,
+      "timestamp": "01:36",
+      "timestamp_end": "01:38",
+      "text": "今天早上我突然覺得",
+      "speaker": "unknown"
+    },
+    {
+      "id": 81,
+      "start": 98.76,
+      "end": 100.26,
+      "timestamp": "01:38",
+      "timestamp_end": "01:40",
+      "text": "如果怕黑暗不錯",
+      "speaker": "unknown"
+    },
+    {
+      "id": 82,
+      "start": 100.9,
+      "end": 102.14,
+      "timestamp": "01:40",
+      "timestamp_end": "01:42",
+      "text": "在洗澡的時候",
+      "speaker": "unknown"
+    },
+    {
+      "id": 83,
+      "start": 102.14,
+      "end": 102.54,
+      "timestamp": "01:42",
+      "timestamp_end": "01:42",
+      "text": "對",
+      "speaker": "unknown"
+    },
+    {
+      "id": 84,
+      "start": 102.54,
+      "end": 103.54,
+      "timestamp": "01:42",
+      "timestamp_end": "01:43",
+      "text": "我們就去買了設備",
+      "speaker": "unknown"
+    },
+    {
+      "id": 85,
+      "start": 103.54,
+      "end": 105.10000000000001,
+      "timestamp": "01:43",
+      "timestamp_end": "01:45",
+      "text": "然後我們就來試試看這樣子",
+      "speaker": "unknown"
+    },
+    {
+      "id": 86,
+      "start": 105.82000000000001,
+      "end": 106.46000000000001,
+      "timestamp": "01:45",
+      "timestamp_end": "01:46",
+      "text": "對",
+      "speaker": "unknown"
+    },
+    {
+      "id": 87,
+      "start": 106.46000000000001,
+      "end": 107.46000000000001,
+      "timestamp": "01:46",
+      "timestamp_end": "01:47",
+      "text": "好今天就是",
+      "speaker": "unknown"
+    },
+    {
+      "id": 88,
+      "start": 107.72,
+      "end": 108.94,
+      "timestamp": "01:47",
+      "timestamp_end": "01:48",
+      "text": "昨天我遇到一個",
+      "speaker": "unknown"
+    },
+    {
+      "id": 89,
+      "start": 109.44,
+      "end": 110.22,
+      "timestamp": "01:49",
+      "timestamp_end": "01:50",
+      "text": "事情啊",
+      "speaker": "unknown"
+    },
+    {
+      "id": 90,
+      "start": 110.22,
+      "end": 111.62,
+      "timestamp": "01:50",
+      "timestamp_end": "01:51",
+      "text": "奇怪的事情",
+      "speaker": "unknown"
+    },
+    {
+      "id": 91,
+      "start": 111.78,
+      "end": 113.62,
+      "timestamp": "01:51",
+      "timestamp_end": "01:53",
+      "text": "就是我的一個圓方清晰",
+      "speaker": "unknown"
+    },
+    {
+      "id": 92,
+      "start": 113.94,
+      "end": 114.76,
+      "timestamp": "01:53",
+      "timestamp_end": "01:54",
+      "text": "還應該這樣講",
+      "speaker": "unknown"
+    },
+    {
+      "id": 93,
+      "start": 114.76,
+      "end": 116.22,
+      "timestamp": "01:54",
+      "timestamp_end": "01:56",
+      "text": "就是早上我爸突然打掉給我",
+      "speaker": "unknown"
+    },
+    {
+      "id": 94,
+      "start": 116.22,
+      "end": 117.28,
+      "timestamp": "01:56",
+      "timestamp_end": "01:57",
+      "text": "這樣反而是的時候",
+      "speaker": "unknown"
+    },
+    {
+      "id": 95,
+      "start": 117.68,
+      "end": 118.72,
+      "timestamp": "01:57",
+      "timestamp_end": "01:58",
+      "text": "所以我一個圓方清晰",
+      "speaker": "unknown"
+    },
+    {
+      "id": 96,
+      "start": 118.72,
+      "end": 119.44,
+      "timestamp": "01:58",
+      "timestamp_end": "01:59",
+      "text": "突然要來",
+      "speaker": "unknown"
+    },
+    {
+      "id": 97,
+      "start": 119.78,
+      "end": 120.36,
+      "timestamp": "01:59",
+      "timestamp_end": "02:00",
+      "text": "找我",
+      "speaker": "unknown"
+    },
+    {
+      "id": 98,
+      "start": 120.82000000000001,
+      "end": 122.08000000000001,
+      "timestamp": "02:00",
+      "timestamp_end": "02:02",
+      "text": "因為他的兒子",
+      "speaker": "unknown"
+    },
+    {
+      "id": 99,
+      "start": 122.48,
+      "end": 123.0,
+      "timestamp": "02:02",
+      "timestamp_end": "02:03",
+      "text": "就是",
+      "speaker": "unknown"
+    },
+    {
+      "id": 100,
+      "start": 123.0,
+      "end": 124.62,
+      "timestamp": "02:03",
+      "timestamp_end": "02:04",
+      "text": "剛好玩那個個質靠",
+      "speaker": "unknown"
+    },
+    {
+      "id": 101,
+      "start": 124.96000000000001,
+      "end": 126.46000000000001,
+      "timestamp": "02:04",
+      "timestamp_end": "02:06",
+      "text": "對 現在是質靠技",
+      "speaker": "unknown"
+    },
+    {
+      "id": 102,
+      "start": 126.46000000000001,
+      "end": 127.12,
+      "timestamp": "02:06",
+      "timestamp_end": "02:07",
+      "text": "剛好玩",
+      "speaker": "unknown"
+    },
+    {
+      "id": 103,
+      "start": 127.36,
+      "end": 129.16,
+      "timestamp": "02:07",
+      "timestamp_end": "02:09",
+      "text": "然後我好像往往時七號放寶吧",
+      "speaker": "unknown"
+    },
+    {
+      "id": 104,
+      "start": 129.16,
+      "end": 130.32,
+      "timestamp": "02:09",
+      "timestamp_end": "02:10",
+      "text": "還要換兩個禮拜這樣",
+      "speaker": "unknown"
+    },
+    {
+      "id": 105,
+      "start": 130.72,
+      "end": 131.62,
+      "timestamp": "02:10",
+      "timestamp_end": "02:11",
+      "text": "然後就在思靠的時候",
+      "speaker": "unknown"
+    },
+    {
+      "id": 106,
+      "start": 131.62,
+      "end": 132.46,
+      "timestamp": "02:11",
+      "timestamp_end": "02:12",
+      "text": "要填什麼質願",
+      "speaker": "unknown"
+    },
+    {
+      "id": 107,
+      "start": 132.46,
+      "end": 133.62,
+      "timestamp": "02:12",
+      "timestamp_end": "02:13",
+      "text": "然後很迷往這樣子",
+      "speaker": "unknown"
+    },
+    {
+      "id": 108,
+      "start": 133.92000000000002,
+      "end": 135.38,
+      "timestamp": "02:13",
+      "timestamp_end": "02:15",
+      "text": "然後除他兒子想要來找我聊聊",
+      "speaker": "unknown"
+    },
+    {
+      "id": 109,
+      "start": 135.38,
+      "end": 136.58,
+      "timestamp": "02:15",
+      "timestamp_end": "02:16",
+      "text": "我想說怎麼可能",
+      "speaker": "unknown"
+    },
+    {
+      "id": 110,
+      "start": 136.74,
+      "end": 137.84,
+      "timestamp": "02:16",
+      "timestamp_end": "02:17",
+      "text": "為什麼會找你啊",
+      "speaker": "unknown"
+    },
+    {
+      "id": 111,
+      "start": 137.84,
+      "end": 138.58,
+      "timestamp": "02:17",
+      "timestamp_end": "02:18",
+      "text": "是不是",
+      "speaker": "unknown"
+    },
+    {
+      "id": 112,
+      "start": 138.84,
+      "end": 139.70000000000002,
+      "timestamp": "02:18",
+      "timestamp_end": "02:19",
+      "text": "我想不是",
+      "speaker": "unknown"
+    },
+    {
+      "id": 113,
+      "start": 139.70000000000002,
+      "end": 140.68,
+      "timestamp": "02:19",
+      "timestamp_end": "02:20",
+      "text": "這種人不是為什麼會找我",
+      "speaker": "unknown"
+    },
+    {
+      "id": 114,
+      "start": 140.68,
+      "end": 141.86,
+      "timestamp": "02:20",
+      "timestamp_end": "02:21",
+      "text": "重點是怎麼可能會有高高高高",
+      "speaker": "unknown"
+    },
+    {
+      "id": 115,
+      "start": 141.86,
+      "end": 143.10000000000002,
+      "timestamp": "02:21",
+      "timestamp_end": "02:23",
+      "text": "然後突然就是覺得",
+      "speaker": "unknown"
+    },
+    {
+      "id": 116,
+      "start": 143.10000000000002,
+      "end": 143.66000000000003,
+      "timestamp": "02:23",
+      "timestamp_end": "02:23",
+      "text": "好迷往",
+      "speaker": "unknown"
+    },
+    {
+      "id": 117,
+      "start": 143.66000000000003,
+      "end": 145.46,
+      "timestamp": "02:23",
+      "timestamp_end": "02:25",
+      "text": "然後想要找一個圓方清晰聊聊",
+      "speaker": "unknown"
+    },
+    {
+      "id": 118,
+      "start": 145.62,
+      "end": 146.74,
+      "timestamp": "02:25",
+      "timestamp_end": "02:26",
+      "text": "所以你已經算是你",
+      "speaker": "unknown"
+    },
+    {
+      "id": 119,
+      "start": 146.74,
+      "end": 148.34,
+      "timestamp": "02:26",
+      "timestamp_end": "02:28",
+      "text": "家族裡面的成功人士了嗎",
+      "speaker": "unknown"
+    },
+    {
+      "id": 120,
+      "start": 148.34,
+      "end": 150.54000000000002,
+      "timestamp": "02:28",
+      "timestamp_end": "02:30",
+      "text": "我應該算家族裡面比較奇怪人士",
+      "speaker": "unknown"
+    },
+    {
+      "id": 121,
+      "start": 150.54000000000002,
+      "end": 152.5,
+      "timestamp": "02:30",
+      "timestamp_end": "02:32",
+      "text": "就是就業方法很奇怪",
+      "speaker": "unknown"
+    },
+    {
+      "id": 122,
+      "start": 152.9,
+      "end": 153.86,
+      "timestamp": "02:32",
+      "timestamp_end": "02:33",
+      "text": "我覺得應該是",
+      "speaker": "unknown"
+    },
+    {
+      "id": 123,
+      "start": 153.86,
+      "end": 155.02,
+      "timestamp": "02:33",
+      "timestamp_end": "02:35",
+      "text": "他們把我問他說",
+      "speaker": "unknown"
+    },
+    {
+      "id": 124,
+      "start": 155.02,
+      "end": 156.34,
+      "timestamp": "02:35",
+      "timestamp_end": "02:36",
+      "text": "你是想好資料的沒",
+      "speaker": "unknown"
+    },
+    {
+      "id": 125,
+      "start": 156.34,
+      "end": 156.98000000000002,
+      "timestamp": "02:36",
+      "timestamp_end": "02:36",
+      "text": "他說",
+      "speaker": "unknown"
+    },
+    {
+      "id": 126,
+      "start": 157.24,
+      "end": 158.18,
+      "timestamp": "02:37",
+      "timestamp_end": "02:38",
+      "text": "我不知道啊",
+      "speaker": "unknown"
+    },
+    {
+      "id": 127,
+      "start": 158.18,
+      "end": 159.38000000000002,
+      "timestamp": "02:38",
+      "timestamp_end": "02:39",
+      "text": "然後他媽說你這樣不行",
+      "speaker": "unknown"
+    },
+    {
+      "id": 128,
+      "start": 159.38000000000002,
+      "end": 161.14000000000001,
+      "timestamp": "02:39",
+      "timestamp_end": "02:41",
+      "text": "然後就在跟自己的那個",
+      "speaker": "unknown"
+    },
+    {
+      "id": 129,
+      "start": 161.14000000000001,
+      "end": 162.82000000000002,
+      "timestamp": "02:41",
+      "timestamp_end": "02:42",
+      "text": "朋友領先講的天的時候",
+      "speaker": "unknown"
+    },
+    {
+      "id": 130,
+      "start": 162.82000000000002,
+      "end": 163.62,
+      "timestamp": "02:42",
+      "timestamp_end": "02:43",
+      "text": "然後說",
+      "speaker": "unknown"
+    },
+    {
+      "id": 131,
+      "start": 163.62,
+      "end": 165.54000000000002,
+      "timestamp": "02:43",
+      "timestamp_end": "02:45",
+      "text": "你兒子是學什麼系的啊",
+      "speaker": "unknown"
+    },
+    {
+      "id": 132,
+      "start": 165.54000000000002,
+      "end": 167.42000000000002,
+      "timestamp": "02:45",
+      "timestamp_end": "02:47",
+      "text": "我都不知道學什麼系統",
+      "speaker": "unknown"
+    },
+    {
+      "id": 133,
+      "start": 167.42000000000002,
+      "end": 168.86,
+      "timestamp": "02:47",
+      "timestamp_end": "02:48",
+      "text": "這個家長安排的企業參訪",
+      "speaker": "unknown"
+    },
+    {
+      "id": 134,
+      "start": 168.86,
+      "end": 169.86,
+      "timestamp": "02:48",
+      "timestamp_end": "02:49",
+      "text": "大概是這種感覺",
+      "speaker": "unknown"
+    },
+    {
+      "id": 135,
+      "start": 169.86,
+      "end": 170.74,
+      "timestamp": "02:49",
+      "timestamp_end": "02:50",
+      "text": "有點這種感覺",
+      "speaker": "unknown"
+    },
+    {
+      "id": 136,
+      "start": 170.74,
+      "end": 171.62,
+      "timestamp": "02:50",
+      "timestamp_end": "02:51",
+      "text": "然後我們就聊了一下",
+      "speaker": "unknown"
+    },
+    {
+      "id": 137,
+      "start": 171.62,
+      "end": 172.82,
+      "timestamp": "02:51",
+      "timestamp_end": "02:52",
+      "text": "大家選資源的事情",
+      "speaker": "unknown"
+    },
+    {
+      "id": 138,
+      "start": 173.3,
+      "end": 173.62,
+      "timestamp": "02:53",
+      "timestamp_end": "02:53",
+      "text": "對",
+      "speaker": "unknown"
+    },
+    {
+      "id": 139,
+      "start": 173.62,
+      "end": 174.98000000000002,
+      "timestamp": "02:53",
+      "timestamp_end": "02:54",
+      "text": "然後我就勾起一些回憶",
+      "speaker": "unknown"
+    },
+    {
+      "id": 140,
+      "start": 176.02,
+      "end": 178.1,
+      "timestamp": "02:56",
+      "timestamp_end": "02:58",
+      "text": "好久我們上次在基地",
+      "speaker": "unknown"
+    },
+    {
+      "id": 141,
+      "start": 178.1,
+      "end": 180.34,
+      "timestamp": "02:58",
+      "timestamp_end": "03:00",
+      "text": "今天事件的時候是不是大家10年前呢",
+      "speaker": "unknown"
+    },
+    {
+      "id": 142,
+      "start": 180.98000000000002,
+      "end": 182.22,
+      "timestamp": "03:00",
+      "timestamp_end": "03:02",
+      "text": "七八年前吧",
+      "speaker": "unknown"
+    },
+    {
+      "id": 143,
+      "start": 182.86,
+      "end": 183.86,
+      "timestamp": "03:02",
+      "timestamp_end": "03:03",
+      "text": "總之就是",
+      "speaker": "unknown"
+    },
+    {
+      "id": 144,
+      "start": 184.1,
+      "end": 184.5,
+      "timestamp": "03:04",
+      "timestamp_end": "03:04",
+      "text": "很你",
+      "speaker": "unknown"
+    },
+    {
+      "id": 145,
+      "start": 185.5,
+      "end": 186.14000000000001,
+      "timestamp": "03:05",
+      "timestamp_end": "03:06",
+      "text": "好我們",
+      "speaker": "unknown"
+    },
+    {
+      "id": 146,
+      "start": 186.14000000000001,
+      "end": 187.42000000000002,
+      "timestamp": "03:06",
+      "timestamp_end": "03:07",
+      "text": "你看這一天大家說明一下",
+      "speaker": "unknown"
+    },
+    {
+      "id": 147,
+      "start": 187.42000000000002,
+      "end": 188.70000000000002,
+      "timestamp": "03:07",
+      "timestamp_end": "03:08",
+      "text": "我們三個都是",
+      "speaker": "unknown"
+    },
+    {
+      "id": 148,
+      "start": 189.22,
+      "end": 191.3,
+      "timestamp": "03:09",
+      "timestamp_end": "03:11",
+      "text": "那個高雄示範大學",
+      "speaker": "unknown"
+    },
+    {
+      "id": 149,
+      "start": 191.46,
+      "end": 192.74,
+      "timestamp": "03:11",
+      "timestamp_end": "03:12",
+      "text": "工業設計學系畢業的",
+      "speaker": "unknown"
+    },
+    {
+      "id": 150,
+      "start": 192.74,
+      "end": 193.26,
+      "timestamp": "03:12",
+      "timestamp_end": "03:13",
+      "text": "對",
+      "speaker": "unknown"
+    },
+    {
+      "id": 151,
+      "start": 193.58,
+      "end": 195.38,
+      "timestamp": "03:13",
+      "timestamp_end": "03:15",
+      "text": "然後一起考重了",
+      "speaker": "unknown"
+    },
+    {
+      "id": 152,
+      "start": 195.78,
+      "end": 197.1,
+      "timestamp": "03:15",
+      "timestamp_end": "03:17",
+      "text": "云林科技大學",
+      "speaker": "unknown"
+    },
+    {
+      "id": 153,
+      "start": 197.22,
+      "end": 198.98000000000002,
+      "timestamp": "03:17",
+      "timestamp_end": "03:18",
+      "text": "工業設計所畢業",
+      "speaker": "unknown"
+    },
+    {
+      "id": 154,
+      "start": 198.98000000000002,
+      "end": 199.70000000000002,
+      "timestamp": "03:18",
+      "timestamp_end": "03:19",
+      "text": "研究所對",
+      "speaker": "unknown"
+    },
+    {
+      "id": 155,
+      "start": 199.70000000000002,
+      "end": 201.06,
+      "timestamp": "03:19",
+      "timestamp_end": "03:21",
+      "text": "所以我們看到學一模一樣",
+      "speaker": "unknown"
+    },
+    {
+      "id": 156,
+      "start": 201.86,
+      "end": 202.5,
+      "timestamp": "03:21",
+      "timestamp_end": "03:22",
+      "text": "這樣子",
+      "speaker": "unknown"
+    },
+    {
+      "id": 157,
+      "start": 202.66,
+      "end": 203.46,
+      "timestamp": "03:22",
+      "timestamp_end": "03:23",
+      "text": "但是我們",
+      "speaker": "unknown"
+    },
+    {
+      "id": 158,
+      "start": 203.46,
+      "end": 205.54,
+      "timestamp": "03:23",
+      "timestamp_end": "03:25",
+      "text": "就是好像我印象中好記得",
+      "speaker": "unknown"
+    },
+    {
+      "id": 159,
+      "start": 205.54,
+      "end": 206.74,
+      "timestamp": "03:25",
+      "timestamp_end": "03:26",
+      "text": "我們反特別",
+      "speaker": "unknown"
+    },
+    {
+      "id": 160,
+      "start": 206.74,
+      "end": 207.3,
+      "timestamp": "03:26",
+      "timestamp_end": "03:27",
+      "text": "就是說",
+      "speaker": "unknown"
+    },
+    {
+      "id": 161,
+      "start": 207.3,
+      "end": 208.18,
+      "timestamp": "03:27",
+      "timestamp_end": "03:28",
+      "text": "好小姐是",
+      "speaker": "unknown"
+    },
+    {
+      "id": 162,
+      "start": 209.46,
+      "end": 210.66,
+      "timestamp": "03:29",
+      "timestamp_end": "03:30",
+      "text": "你是親主人嗎",
+      "speaker": "unknown"
+    },
+    {
+      "id": 163,
+      "start": 210.66,
+      "end": 212.02,
+      "timestamp": "03:30",
+      "timestamp_end": "03:32",
+      "text": "對我親主是台穹人",
+      "speaker": "unknown"
+    },
+    {
+      "id": 164,
+      "start": 212.02,
+      "end": 213.06,
+      "timestamp": "03:32",
+      "timestamp_end": "03:33",
+      "text": "我是高雄人",
+      "speaker": "unknown"
+    },
+    {
+      "id": 165,
+      "start": 213.06,
+      "end": 213.38,
+      "timestamp": "03:33",
+      "timestamp_end": "03:33",
+      "text": "對",
+      "speaker": "unknown"
+    },
+    {
+      "id": 166,
+      "start": 213.38,
+      "end": 214.74,
+      "timestamp": "03:33",
+      "timestamp_end": "03:34",
+      "text": "所以南北差距",
+      "speaker": "unknown"
+    },
+    {
+      "id": 167,
+      "start": 214.74,
+      "end": 216.66,
+      "timestamp": "03:34",
+      "timestamp_end": "03:36",
+      "text": "然後我們的那個高中的那個",
+      "speaker": "unknown"
+    },
+    {
+      "id": 168,
+      "start": 216.98000000000002,
+      "end": 217.62,
+      "timestamp": "03:36",
+      "timestamp_end": "03:37",
+      "text": "自願",
+      "speaker": "unknown"
+    },
+    {
+      "id": 169,
+      "start": 217.62,
+      "end": 218.5,
+      "timestamp": "03:37",
+      "timestamp_end": "03:38",
+      "text": "好像也差很多",
+      "speaker": "unknown"
+    },
+    {
+      "id": 170,
+      "start": 219.22,
+      "end": 219.86,
+      "timestamp": "03:39",
+      "timestamp_end": "03:39",
+      "text": "幹嘛",
+      "speaker": "unknown"
+    },
+    {
+      "id": 171,
+      "start": 220.34,
+      "end": 221.22,
+      "timestamp": "03:40",
+      "timestamp_end": "03:41",
+      "text": "你不是竹女",
+      "speaker": "unknown"
+    },
+    {
+      "id": 172,
+      "start": 221.22,
+      "end": 222.1,
+      "timestamp": "03:41",
+      "timestamp_end": "03:42",
+      "text": "對我書你",
+      "speaker": "unknown"
+    },
+    {
+      "id": 173,
+      "start": 222.1,
+      "end": 222.8,
+      "timestamp": "03:42",
+      "timestamp_end": "03:42",
+      "text": "那第一次願",
+      "speaker": "unknown"
+    },
+    {
+      "id": 174,
+      "start": 222.8,
+      "end": 223.54000000000002,
+      "timestamp": "03:42",
+      "timestamp_end": "03:43",
+      "text": "我",
+      "speaker": "unknown"
+    },
+    {
+      "id": 175,
+      "start": 224.18,
+      "end": 225.22,
+      "timestamp": "03:44",
+      "timestamp_end": "03:45",
+      "text": "因為我因為為什麼",
+      "speaker": "unknown"
+    },
+    {
+      "id": 176,
+      "start": 225.22,
+      "end": 226.5,
+      "timestamp": "03:45",
+      "timestamp_end": "03:46",
+      "text": "就是我看女兒的",
+      "speaker": "unknown"
+    },
+    {
+      "id": 177,
+      "start": 226.9,
+      "end": 227.70000000000002,
+      "timestamp": "03:46",
+      "timestamp_end": "03:47",
+      "text": "因為我看女兒的",
+      "speaker": "unknown"
+    },
+    {
+      "id": 178,
+      "start": 227.70000000000002,
+      "end": 228.5,
+      "timestamp": "03:47",
+      "timestamp_end": "03:48",
+      "text": "因為你是",
+      "speaker": "unknown"
+    },
+    {
+      "id": 179,
+      "start": 228.5,
+      "end": 230.26,
+      "timestamp": "03:48",
+      "timestamp_end": "03:50",
+      "text": "但是我是奉心的",
+      "speaker": "unknown"
+    },
+    {
+      "id": 180,
+      "start": 230.26,
+      "end": 230.82,
+      "timestamp": "03:50",
+      "timestamp_end": "03:50",
+      "text": "奉心說",
+      "speaker": "unknown"
+    },
+    {
+      "id": 181,
+      "start": 230.82,
+      "end": 232.42,
+      "timestamp": "03:50",
+      "timestamp_end": "03:52",
+      "text": "那個時候我考的時候",
+      "speaker": "unknown"
+    },
+    {
+      "id": 182,
+      "start": 232.42,
+      "end": 233.85999999999999,
+      "timestamp": "03:52",
+      "timestamp_end": "03:53",
+      "text": "你第三第四",
+      "speaker": "unknown"
+    },
+    {
+      "id": 183,
+      "start": 234.18,
+      "end": 234.9,
+      "timestamp": "03:54",
+      "timestamp_end": "03:54",
+      "text": "第三第四",
+      "speaker": "unknown"
+    },
+    {
+      "id": 184,
+      "start": 234.9,
+      "end": 235.7,
+      "timestamp": "03:54",
+      "timestamp_end": "03:55",
+      "text": "可是高雄",
+      "speaker": "unknown"
+    },
+    {
+      "id": 185,
+      "start": 235.7,
+      "end": 236.73999999999998,
+      "timestamp": "03:55",
+      "timestamp_end": "03:56",
+      "text": "那個雄女也比",
+      "speaker": "unknown"
+    },
+    {
+      "id": 186,
+      "start": 236.73999999999998,
+      "end": 237.85999999999999,
+      "timestamp": "03:56",
+      "timestamp_end": "03:57",
+      "text": "竹女的分數高",
+      "speaker": "unknown"
+    },
+    {
+      "id": 187,
+      "start": 238.57999999999998,
+      "end": 239.38,
+      "timestamp": "03:58",
+      "timestamp_end": "03:59",
+      "text": "對",
+      "speaker": "unknown"
+    },
+    {
+      "id": 188,
+      "start": 239.38,
+      "end": 240.57999999999998,
+      "timestamp": "03:59",
+      "timestamp_end": "04:00",
+      "text": "但是我那時候是可以",
+      "speaker": "unknown"
+    },
+    {
+      "id": 189,
+      "start": 240.57999999999998,
+      "end": 241.85999999999999,
+      "timestamp": "04:00",
+      "timestamp_end": "04:01",
+      "text": "入學第二支願左右",
+      "speaker": "unknown"
+    },
+    {
+      "id": 190,
+      "start": 241.85999999999999,
+      "end": 243.78,
+      "timestamp": "04:01",
+      "timestamp_end": "04:03",
+      "text": "但是我是高分低爆這樣",
+      "speaker": "unknown"
+    },
+    {
+      "id": 191,
+      "start": 243.78,
+      "end": 244.42,
+      "timestamp": "04:03",
+      "timestamp_end": "04:04",
+      "text": "好",
+      "speaker": "unknown"
+    },
+    {
+      "id": 192,
+      "start": 244.42,
+      "end": 245.7,
+      "timestamp": "04:04",
+      "timestamp_end": "04:05",
+      "text": "你現在是19",
+      "speaker": "unknown"
+    },
+    {
+      "id": 193,
+      "start": 245.7,
+      "end": 246.01999999999998,
+      "timestamp": "04:05",
+      "timestamp_end": "04:06",
+      "text": "對",
+      "speaker": "unknown"
+    },
+    {
+      "id": 194,
+      "start": 246.01999999999998,
+      "end": 246.42,
+      "timestamp": "04:06",
+      "timestamp_end": "04:06",
+      "text": "對",
+      "speaker": "unknown"
+    },
+    {
+      "id": 195,
+      "start": 246.42,
+      "end": 247.22,
+      "timestamp": "04:06",
+      "timestamp_end": "04:07",
+      "text": "我也是",
+      "speaker": "unknown"
+    },
+    {
+      "id": 196,
+      "start": 247.22,
+      "end": 248.34,
+      "timestamp": "04:07",
+      "timestamp_end": "04:08",
+      "text": "我也是可以",
+      "speaker": "unknown"
+    },
+    {
+      "id": 197,
+      "start": 248.34,
+      "end": 249.54,
+      "timestamp": "04:08",
+      "timestamp_end": "04:09",
+      "text": "我那時候也是可以入學",
+      "speaker": "unknown"
+    },
+    {
+      "id": 198,
+      "start": 249.54,
+      "end": 250.01999999999998,
+      "timestamp": "04:09",
+      "timestamp_end": "04:10",
+      "text": "二種",
+      "speaker": "unknown"
+    },
+    {
+      "id": 199,
+      "start": 250.01999999999998,
+      "end": 251.29999999999998,
+      "timestamp": "04:10",
+      "timestamp_end": "04:11",
+      "text": "我高分低爆這樣",
+      "speaker": "unknown"
+    },
+    {
+      "id": 200,
+      "start": 251.29999999999998,
+      "end": 252.66,
+      "timestamp": "04:11",
+      "timestamp_end": "04:12",
+      "text": "你之後是哪一所",
+      "speaker": "unknown"
+    },
+    {
+      "id": 201,
+      "start": 252.66,
+      "end": 253.78,
+      "timestamp": "04:12",
+      "timestamp_end": "04:13",
+      "text": "我說是獨台穹",
+      "speaker": "unknown"
+    },
+    {
+      "id": 202,
+      "start": 253.78,
+      "end": 254.74,
+      "timestamp": "04:13",
+      "timestamp_end": "04:14",
+      "text": "是著重民高",
+      "speaker": "unknown"
+    },
+    {
+      "id": 203,
+      "start": 254.74,
+      "end": 255.54,
+      "timestamp": "04:14",
+      "timestamp_end": "04:15",
+      "text": "四立高中",
+      "speaker": "unknown"
+    },
+    {
+      "id": 204,
+      "start": 256.1,
+      "end": 257.14,
+      "timestamp": "04:16",
+      "timestamp_end": "04:17",
+      "text": "所以也是公立的",
+      "speaker": "unknown"
+    },
+    {
+      "id": 205,
+      "start": 257.14,
+      "end": 257.38,
+      "timestamp": "04:17",
+      "timestamp_end": "04:17",
+      "text": "對",
+      "speaker": "unknown"
+    },
+    {
+      "id": 206,
+      "start": 257.38,
+      "end": 258.1,
+      "timestamp": "04:17",
+      "timestamp_end": "04:18",
+      "text": "是公立的",
+      "speaker": "unknown"
+    },
+    {
+      "id": 207,
+      "start": 258.1,
+      "end": 258.42,
+      "timestamp": "04:18",
+      "timestamp_end": "04:18",
+      "text": "嗯",
+      "speaker": "unknown"
+    },
+    {
+      "id": 208,
+      "start": 258.42,
+      "end": 259.7,
+      "timestamp": "04:18",
+      "timestamp_end": "04:19",
+      "text": "那我高中黃說",
+      "speaker": "unknown"
+    },
+    {
+      "id": 209,
+      "start": 259.7,
+      "end": 260.9,
+      "timestamp": "04:19",
+      "timestamp_end": "04:20",
+      "text": "聽說在那個",
+      "speaker": "unknown"
+    },
+    {
+      "id": 210,
+      "start": 261.14,
+      "end": 263.14,
+      "timestamp": "04:21",
+      "timestamp_end": "04:23",
+      "text": "國中還要考試那個年代",
+      "speaker": "unknown"
+    },
+    {
+      "id": 211,
+      "start": 263.14,
+      "end": 265.14,
+      "timestamp": "04:23",
+      "timestamp_end": "04:25",
+      "text": "全部是很厲害的學校",
+      "speaker": "unknown"
+    },
+    {
+      "id": 212,
+      "start": 265.14,
+      "end": 266.42,
+      "timestamp": "04:25",
+      "timestamp_end": "04:26",
+      "text": "很厲害的國中",
+      "speaker": "unknown"
+    },
+    {
+      "id": 213,
+      "start": 266.42,
+      "end": 268.58,
+      "timestamp": "04:26",
+      "timestamp_end": "04:28",
+      "text": "然後出了兩個強級要分",
+      "speaker": "unknown"
+    },
+    {
+      "id": 214,
+      "start": 270.26,
+      "end": 271.06,
+      "timestamp": "04:30",
+      "timestamp_end": "04:31",
+      "text": "中子",
+      "speaker": "unknown"
+    },
+    {
+      "id": 215,
+      "start": 271.06,
+      "end": 272.09999999999997,
+      "timestamp": "04:31",
+      "timestamp_end": "04:32",
+      "text": "一絕不正",
+      "speaker": "unknown"
+    },
+    {
+      "id": 216,
+      "start": 272.09999999999997,
+      "end": 273.3,
+      "timestamp": "04:32",
+      "timestamp_end": "04:33",
+      "text": "那個感覺",
+      "speaker": "unknown"
+    },
+    {
+      "id": 217,
+      "start": 273.3,
+      "end": 275.3,
+      "timestamp": "04:33",
+      "timestamp_end": "04:35",
+      "text": "是不是不說恢不太好",
+      "speaker": "unknown"
+    },
+    {
+      "id": 218,
+      "start": 275.3,
+      "end": 275.7,
+      "timestamp": "04:35",
+      "timestamp_end": "04:35",
+      "text": "對",
+      "speaker": "unknown"
+    },
+    {
+      "id": 219,
+      "start": 275.7,
+      "end": 276.5,
+      "timestamp": "04:35",
+      "timestamp_end": "04:36",
+      "text": "那在感覺",
+      "speaker": "unknown"
+    },
+    {
+      "id": 220,
+      "start": 276.5,
+      "end": 278.41999999999996,
+      "timestamp": "04:36",
+      "timestamp_end": "04:38",
+      "text": "那感覺不錯",
+      "speaker": "unknown"
+    },
+    {
+      "id": 221,
+      "start": 278.41999999999996,
+      "end": 279.62,
+      "timestamp": "04:38",
+      "timestamp_end": "04:39",
+      "text": "感覺我們上高中",
+      "speaker": "unknown"
+    },
+    {
+      "id": 222,
+      "start": 279.62,
+      "end": 281.21999999999997,
+      "timestamp": "04:39",
+      "timestamp_end": "04:41",
+      "text": "都算還獨得還行的",
+      "speaker": "unknown"
+    },
+    {
+      "id": 223,
+      "start": 281.21999999999997,
+      "end": 282.58,
+      "timestamp": "04:41",
+      "timestamp_end": "04:42",
+      "text": "就是都是普通",
+      "speaker": "unknown"
+    },
+    {
+      "id": 224,
+      "start": 282.58,
+      "end": 282.9,
+      "timestamp": "04:42",
+      "timestamp_end": "04:42",
+      "text": "普通",
+      "speaker": "unknown"
+    },
+    {
+      "id": 225,
+      "start": 282.9,
+      "end": 283.46,
+      "timestamp": "04:42",
+      "timestamp_end": "04:43",
+      "text": "很不一樣",
+      "speaker": "unknown"
+    },
+    {
+      "id": 226,
+      "start": 283.46,
+      "end": 284.65999999999997,
+      "timestamp": "04:43",
+      "timestamp_end": "04:44",
+      "text": "你第一支願哪不好意思",
+      "speaker": "unknown"
+    },
+    {
+      "id": 227,
+      "start": 284.65999999999997,
+      "end": 285.3,
+      "timestamp": "04:44",
+      "timestamp_end": "04:45",
+      "text": "我們第一支望",
+      "speaker": "unknown"
+    },
+    {
+      "id": 228,
+      "start": 285.3,
+      "end": 286.26,
+      "timestamp": "04:45",
+      "timestamp_end": "04:46",
+      "text": "我們通",
+      "speaker": "unknown"
+    },
+    {
+      "id": 229,
+      "start": 286.26,
+      "end": 286.65999999999997,
+      "timestamp": "04:46",
+      "timestamp_end": "04:46",
+      "text": "通通",
+      "speaker": "unknown"
+    },
+    {
+      "id": 230,
+      "start": 286.65999999999997,
+      "end": 288.26,
+      "timestamp": "04:46",
+      "timestamp_end": "04:48",
+      "text": "通通通通通通通通",
+      "speaker": "unknown"
+    },
+    {
+      "id": 231,
+      "start": 289.21999999999997,
+      "end": 290.65999999999997,
+      "timestamp": "04:49",
+      "timestamp_end": "04:50",
+      "text": "加大會有很多場球",
+      "speaker": "unknown"
+    },
+    {
+      "id": 232,
+      "start": 290.65999999999997,
+      "end": 292.26,
+      "timestamp": "04:50",
+      "timestamp_end": "04:52",
+      "text": "我不要這個意思",
+      "speaker": "unknown"
+    },
+    {
+      "id": 233,
+      "start": 292.9,
+      "end": 294.9,
+      "timestamp": "04:52",
+      "timestamp_end": "04:54",
+      "text": "那你高中成績好了",
+      "speaker": "unknown"
+    },
+    {
+      "id": 234,
+      "start": 295.7,
+      "end": 296.65999999999997,
+      "timestamp": "04:55",
+      "timestamp_end": "04:56",
+      "text": "其實",
+      "speaker": "unknown"
+    },
+    {
+      "id": 235,
+      "start": 296.9,
+      "end": 298.65999999999997,
+      "timestamp": "04:56",
+      "timestamp_end": "04:58",
+      "text": "我覺得可能因為第一支願",
+      "speaker": "unknown"
+    },
+    {
+      "id": 236,
+      "start": 298.65999999999997,
+      "end": 300.26,
+      "timestamp": "04:58",
+      "timestamp_end": "05:00",
+      "text": "大陣的都很會讀書",
+      "speaker": "unknown"
+    }
+  ],
+  "paragraphs": [
+    {
+      "timestamp": "00:00",
+      "start": 0,
+      "text": "哈哈哈 好 我開始弱了 來 最近算是我們這次的第一集啊 對 你那個身 你那個OP的聲音是 你早上在拍 Dopey 過了的時候拍的那個 對啊 用手機 用手機錄 我想說你沒試 每一次我們就拍Dopey 過了一次 平常每次就會拍他FakeW好不好 哪有 只是平律沒有你們那麼高 反正他也不愛你 他知道你有求比他都才會找他 我也我覺得你這樣不行 我覺得你找不到放OP的時間點"
+    },
+    {
+      "timestamp": "00:30",
+      "start": 30.200000000000003,
+      "text": "再加了 真的 他不我現在就放下來 哈哈 哈哈 哈哈 哈哈 哈哈 哈哈 哈哈 哈哈哈 哎呦 好可愛喔 好雖然那個怕怕怕是拍BV的聲音 對 那是拍BV的聲音 哇對拍 哈哈 那你有配著音樂弄 哦 音樂是畫的假的 哦 好 音樂 OP了 所以你現在應該要開始講 節目的名字 好 好大家好 歡迎來到好位小姐 久iner 怎麼做 因為我會畫了"
+    },
+    {
+      "timestamp": "01:00",
+      "start": 60.379999999999995,
+      "text": "還是畫教大家 知道沛球 因為我以前之前以前我私有 可以 對 來 我只看到 好 可以 來 好 藝事 開始 就是房之後 那 放在幾台 一邊 是 第三 crib 好 一邊 好 這天機是阿斷 那好我是攝影師很煩"
+    },
+    {
+      "timestamp": "01:30",
+      "start": 90.58000000000001,
+      "text": "好總原製呢我們現在開始突然掉入Palkest 對 為什麼會這樣子呢就是 今天早上我突然覺得 如果怕黑暗不錯 在洗澡的時候 對 我們就去買了設備 然後我們就來試試看這樣子 對 好今天就是 昨天我遇到一個 事情啊 奇怪的事情 就是我的一個圓方清晰 還應該這樣講 就是早上我爸突然打掉給我 這樣反而是的時候 所以我一個圓方清晰 突然要來 找我"
+    },
+    {
+      "timestamp": "02:00",
+      "start": 120.82000000000001,
+      "text": "因為他的兒子 就是 剛好玩那個個質靠 對 現在是質靠技 剛好玩 然後我好像往往時七號放寶吧 還要換兩個禮拜這樣 然後就在思靠的時候 要填什麼質願 然後很迷往這樣子 然後除他兒子想要來找我聊聊 我想說怎麼可能 為什麼會找你啊 是不是 我想不是 這種人不是為什麼會找我 重點是怎麼可能會有高高高高 然後突然就是覺得 好迷往 然後想要找一個圓方清晰聊聊 所以你已經算是你 家族裡面的成功人士了嗎 我應該算家族裡面比較奇怪人士 就是就業方法很奇怪"
+    },
+    {
+      "timestamp": "02:32",
+      "start": 152.9,
+      "text": "我覺得應該是 他們把我問他說 你是想好資料的沒 他說 我不知道啊 然後他媽說你這樣不行 然後就在跟自己的那個 朋友領先講的天的時候 然後說 你兒子是學什麼系的啊 我都不知道學什麼系統 這個家長安排的企業參訪 大概是這種感覺 有點這種感覺 然後我們就聊了一下 大家選資源的事情 對 然後我就勾起一些回憶 好久我們上次在基地 今天事件的時候是不是大家10年前呢 七八年前吧 總之就是"
+    },
+    {
+      "timestamp": "03:04",
+      "start": 184.1,
+      "text": "很你 好我們 你看這一天大家說明一下 我們三個都是 那個高雄示範大學 工業設計學系畢業的 對 然後一起考重了 云林科技大學 工業設計所畢業 研究所對 所以我們看到學一模一樣 這樣子 但是我們 就是好像我印象中好記得 我們反特別 就是說 好小姐是 你是親主人嗎 對我親主是台穹人 我是高雄人 對 所以南北差距"
+    },
+    {
+      "timestamp": "03:34",
+      "start": 214.74,
+      "text": "然後我們的那個高中的那個 自願 好像也差很多 幹嘛 你不是竹女 對我書你 那第一次願 我 因為我因為為什麼 就是我看女兒的 因為我看女兒的 因為你是 但是我是奉心的 奉心說 那個時候我考的時候 你第三第四 第三第四 可是高雄 那個雄女也比 竹女的分數高 對 但是我那時候是可以 入學第二支願左右 但是我是高分低爆這樣 好 你現在是19"
+    },
+    {
+      "timestamp": "04:05",
+      "start": 245.7,
+      "text": "對 對 我也是 我也是可以 我那時候也是可以入學 二種 我高分低爆這樣 你之後是哪一所 我說是獨台穹 是著重民高 四立高中 所以也是公立的 對 是公立的 嗯 那我高中黃說 聽說在那個 國中還要考試那個年代 全部是很厲害的學校 很厲害的國中 然後出了兩個強級要分 中子 一絕不正 那個感覺 是不是不說恢不太好 對 那在感覺"
+    },
+    {
+      "timestamp": "04:36",
+      "start": 276.5,
+      "text": "那感覺不錯 感覺我們上高中 都算還獨得還行的 就是都是普通 普通 很不一樣 你第一支願哪不好意思 我們第一支望 我們通 通通 通通通通通通通通 加大會有很多場球 我不要這個意思 那你高中成績好了 其實 我覺得可能因為第一支願 大陣的都很會讀書"
+    }
+  ]
+}

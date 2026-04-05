@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>好味小姐 Podcast 搜尋</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif; background: #f5f5f5; color: #333; }
+
+    header { background: #1a1a2e; color: white; padding: 20px 24px; }
+    .header-inner { max-width: 760px; margin: 0 auto; display: flex; align-items: center; gap: 16px; }
+    .header-logo { font-size: 2em; }
+    header h1 { font-size: 1.4em; margin-bottom: 2px; }
+    header p { color: #9aafcc; font-size: 0.85em; }
+
+    .search-area { background: #1a1a2e; padding: 0 24px 20px; }
+    .search-inner { max-width: 760px; margin: 0 auto; }
+    .search-inner input {
+      width: 100%; padding: 13px 18px;
+      font-size: 1.05em; border: none;
+      border-radius: 8px; outline: none;
+      background: white;
+    }
+
+    .content { max-width: 760px; margin: 0 auto; padding: 16px; }
+
+    .toolbar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; flex-wrap: wrap; gap: 8px; }
+    .filter-group { display: flex; gap: 6px; }
+    .filter-btn {
+      padding: 5px 14px; border: 1px solid #ccc;
+      border-radius: 20px; background: white;
+      cursor: pointer; font-size: 0.82em; transition: all 0.15s;
+    }
+    .filter-btn:hover { border-color: #1a1a2e; }
+    .filter-btn.active { background: #1a1a2e; color: white; border-color: #1a1a2e; }
+
+    .stats { color: #888; font-size: 0.85em; }
+
+    .result-card {
+      background: white; border-radius: 8px; padding: 14px 16px;
+      margin-bottom: 10px; box-shadow: 0 1px 3px rgba(0,0,0,0.07);
+      border-left: 4px solid #2d6a9f;
+      transition: box-shadow 0.15s;
+    }
+    .result-card:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.12); }
+
+    .card-header { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; flex-wrap: wrap; }
+    .ep-badge {
+      background: #2d6a9f; color: white;
+      padding: 2px 8px; border-radius: 4px; font-size: 0.78em; font-weight: bold;
+    }
+    .ep-title { color: #555; font-size: 0.88em; }
+    .timestamp {
+      margin-left: auto;
+      background: #f0f4f8; color: #2d6a9f;
+      padding: 2px 10px; border-radius: 12px;
+      font-size: 0.82em; font-family: monospace;
+      cursor: pointer; border: 1px solid #d0dce8;
+    }
+    .timestamp:hover { background: #2d6a9f; color: white; }
+
+    .card-text { line-height: 1.75; font-size: 0.95em; color: #333; }
+    .card-text mark { background: #fff3cd; padding: 0 2px; border-radius: 2px; font-style: normal; }
+
+    .empty { text-align: center; color: #bbb; padding: 60px 20px; font-size: 1.1em; }
+    .empty small { display: block; margin-top: 8px; font-size: 0.8em; }
+
+    .more-btn {
+      width: 100%; padding: 10px;
+      background: white; border: 1px solid #ddd;
+      border-radius: 8px; cursor: pointer; color: #555;
+      font-size: 0.9em; margin-top: 8px;
+    }
+    .more-btn:hover { background: #f0f4f8; }
+
+    .copy-toast {
+      position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
+      background: #333; color: white; padding: 8px 18px;
+      border-radius: 20px; font-size: 0.85em; opacity: 0;
+      transition: opacity 0.3s; pointer-events: none;
+    }
+    .copy-toast.show { opacity: 1; }
+
+    @media (max-width: 480px) {
+      .timestamp { margin-left: 0; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div class="header-logo">🎙</div>
+      <div>
+        <h1>好味小姐 Podcast 搜尋</h1>
+        <p>好味小姐開束縛我還你原形 — 搜尋所有集數內容</p>
+      </div>
+    </div>
+  </header>
+
+  <div class="search-area">
+    <div class="search-inner">
+      <input type="text" id="searchInput" placeholder="搜尋關鍵字... 例：工業設計、食物、旅行" autofocus>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="toolbar">
+      <div class="filter-group">
+        <button class="filter-btn active" data-mode="all">全部</button>
+        <button class="filter-btn" data-mode="exact">完全符合</button>
+        <button class="filter-btn" data-mode="fuzzy">模糊搜尋</button>
+      </div>
+      <div class="stats" id="stats"></div>
+    </div>
+    <div id="results">
+      <div class="empty">輸入關鍵字開始搜尋<small>支援中文全文搜尋與模糊比對</small></div>
+    </div>
+  </div>
+
+  <div class="copy-toast" id="toast">已複製時間點</div>
+
+  <script>
+    let allSegments = [];
+    let searchMode = 'all';
+    let currentResults = [];
+    let displayCount = 20;
+
+    async function loadData() {
+      try {
+        const res = await fetch('data/search_index.json');
+        const data = await res.json();
+        allSegments = data.segments;
+        document.getElementById('stats').textContent =
+          `已載入 ${data.total_episodes} 集 · ${data.total_segments} 個段落`;
+      } catch(e) {
+        document.getElementById('stats').textContent = '資料載入失敗';
+        console.error(e);
+      }
+    }
+
+    function escapeRegex(s) {
+      return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+
+    function highlight(text, queries) {
+      let result = text;
+      for (const q of queries) {
+        if (!q) continue;
+        const re = new RegExp(`(${escapeRegex(q)})`, 'gi');
+        result = result.replace(re, '<mark>$1</mark>');
+      }
+      return result;
+    }
+
+    function fuzzyScore(text, query) {
+      let score = 0;
+      let lastIdx = -1;
+      for (const ch of query) {
+        const idx = text.indexOf(ch, lastIdx + 1);
+        if (idx === -1) return -1;
+        score += (idx - lastIdx === 1) ? 2 : 1; // bonus for consecutive
+        lastIdx = idx;
+      }
+      return score;
+    }
+
+    function search(query) {
+      query = query.trim();
+      if (!query) {
+        document.getElementById('results').innerHTML =
+          '<div class="empty">輸入關鍵字開始搜尋<small>支援中文全文搜尋與模糊比對</small></div>';
+        document.getElementById('stats').textContent =
+          allSegments.length ? `已載入資料 · ${allSegments.length} 個段落` : '';
+        return;
+      }
+
+      // Split on spaces for multi-keyword
+      const keywords = query.split(/\s+/).filter(k => k);
+      const mainQuery = keywords.join('');
+
+      let results = [];
+
+      if (searchMode === 'exact') {
+        results = allSegments.filter(s => keywords.every(k => s.text.includes(k)));
+      } else if (searchMode === 'fuzzy') {
+        results = allSegments
+          .map(s => ({ seg: s, score: fuzzyScore(s.text, mainQuery) }))
+          .filter(x => x.score > 0)
+          .sort((a, b) => b.score - a.score)
+          .map(x => x.seg);
+      } else {
+        // exact first, then fuzzy
+        const exact = allSegments.filter(s => keywords.every(k => s.text.includes(k)));
+        const exactSet = new Set(exact.map((_, i) => i));
+        const fuzzy = allSegments
+          .map((s, i) => ({ seg: s, i, score: fuzzyScore(s.text, mainQuery) }))
+          .filter(x => !exact.includes(x.seg) && x.score > 0)
+          .sort((a, b) => b.score - a.score)
+          .map(x => x.seg);
+        results = [...exact, ...fuzzy];
+      }
+
+      currentResults = results;
+      displayCount = 20;
+      renderResults(keywords);
+    }
+
+    function renderResults(keywords) {
+      const query = document.getElementById('searchInput').value.trim();
+      const results = currentResults;
+
+      document.getElementById('stats').textContent =
+        `找到 ${results.length} 個相關段落`;
+
+      if (results.length === 0) {
+        document.getElementById('results').innerHTML =
+          '<div class="empty">找不到相關內容<small>試試模糊搜尋？</small></div>';
+        return;
+      }
+
+      const shown = results.slice(0, displayCount);
+      const html = shown.map(r => {
+        return `
+          <div class="result-card">
+            <div class="card-header">
+              <span class="ep-badge">${r.ep}</span>
+              <span class="ep-title">${r.title}</span>
+              <span class="timestamp" data-ep="${r.ep}" data-start="${r.start}" title="點擊複製時間點">${r.ts}</span>
+            </div>
+            <div class="card-text">${highlight(r.text, keywords)}</div>
+          </div>
+        `;
+      }).join('');
+
+      const moreHtml = results.length > displayCount
+        ? `<button class="more-btn" id="moreBtn">顯示更多 (${results.length - displayCount} 筆)</button>`
+        : '';
+
+      document.getElementById('results').innerHTML = html + moreHtml;
+
+      // Timestamp click → copy
+      document.querySelectorAll('.timestamp').forEach(el => {
+        el.addEventListener('click', () => {
+          const ep = el.dataset.ep;
+          const start = parseFloat(el.dataset.start);
+          const m = Math.floor(start / 60);
+          const s = Math.floor(start % 60);
+          const text = `${ep} ${m}:${s.toString().padStart(2,'0')}`;
+          navigator.clipboard?.writeText(text).catch(() => {});
+          showToast(`已複製：${text}`);
+        });
+      });
+
+      const moreBtn = document.getElementById('moreBtn');
+      if (moreBtn) {
+        moreBtn.addEventListener('click', () => {
+          displayCount += 20;
+          renderResults(query.split(/\s+/).filter(k => k));
+        });
+      }
+    }
+
+    function showToast(msg) {
+      const t = document.getElementById('toast');
+      t.textContent = msg;
+      t.classList.add('show');
+      setTimeout(() => t.classList.remove('show'), 2000);
+    }
+
+    let debounceTimer;
+    document.getElementById('searchInput').addEventListener('input', e => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => search(e.target.value), 200);
+    });
+
+    document.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        searchMode = btn.dataset.mode;
+        search(document.getElementById('searchInput').value);
+      });
+    });
+
+    loadData();
+  </script>
+</body>
+</html>
