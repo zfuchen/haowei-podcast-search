@@ -1,0 +1,8 @@
+{
+  "_readme": "SPEAKER_00/01/02 是 pyannote 自動分配的編號，不一定固定對應同一個人。每集跑完 diarization 後，聽前幾段確認誰是誰，再填入 name。",
+  "speakers": {
+    "SPEAKER_00": { "name": "很煩", "description": "攝影師" },
+    "SPEAKER_01": { "name": "阿斷", "description": "剪輯師" },
+    "SPEAKER_02": { "name": "脆脆", "description": "" }
+  }
+}

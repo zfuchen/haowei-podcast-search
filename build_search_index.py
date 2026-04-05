@@ -12,6 +12,8 @@ episodes = []
 segments_all = []
 
 for path in sorted(glob.glob(os.path.join(DATA_DIR, "EP*.json"))):
+    if "_diarization" in path:
+        continue
     with open(path) as f:
         ep = json.load(f)
     episodes.append({
